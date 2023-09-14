@@ -1,0 +1,114 @@
+---
+object: card
+id: 73719325-b091-4464-b0b0-77dfbb19562a
+oracle_id: b015686d-07e1-46c7-8e51-2bec646860d6
+multiverse_ids:
+- 4831
+mtgo_id: 9561
+mtgo_foil_id: 9562
+tcgplayer_id: 5635
+cardmarket_id: 8924
+name: Mogg Conscripts
+lang: en
+released_at: '1997-10-14'
+uri: https://api.scryfall.com/cards/73719325-b091-4464-b0b0-77dfbb19562a
+scryfall_uri: https://scryfall.com/card/tmp/189/mogg-conscripts?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/3/73719325-b091-4464-b0b0-77dfbb19562a.jpg?1593863096
+  normal: https://cards.scryfall.io/normal/front/7/3/73719325-b091-4464-b0b0-77dfbb19562a.jpg?1593863096
+  large: https://cards.scryfall.io/large/front/7/3/73719325-b091-4464-b0b0-77dfbb19562a.jpg?1593863096
+  png: https://cards.scryfall.io/png/front/7/3/73719325-b091-4464-b0b0-77dfbb19562a.png?1593863096
+  art_crop: https://cards.scryfall.io/art_crop/front/7/3/73719325-b091-4464-b0b0-77dfbb19562a.jpg?1593863096
+  border_crop: https://cards.scryfall.io/border_crop/front/7/3/73719325-b091-4464-b0b0-77dfbb19562a.jpg?1593863096
+mana_cost: "{R}"
+cmc: 1.0
+type_line: Creature — Goblin
+oracle_text: Mogg Conscripts can't attack unless you've cast a creature spell this
+  turn.
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 10df3a67-178e-4363-8668-34f0e6edf2a7
+set: tmp
+set_name: Tempest
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/10df3a67-178e-4363-8668-34f0e6edf2a7
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atmp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tmp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/73719325-b091-4464-b0b0-77dfbb19562a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab015686d-07e1-46c7-8e51-2bec646860d6&unique=prints
+collector_number: '189'
+digital: false
+rarity: common
+flavor_text: |-
+  "Torahn's horns! They've seen us. Now, statue, you must fight to save yourself!"
+  —Tahngarth, aboard the *Predator*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Pete Venters
+artist_ids:
+- d54c4a1a-c0c5-4834-84db-125d341f3ad8
+illustration_id: '08be861a-29bf-404c-9610-614009eda54d'
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22467
+prices:
+  usd: '0.23'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.29'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4831
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mogg+Conscripts&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mogg+Conscripts&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mogg+Conscripts
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/5635?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mogg+Conscripts&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/9561?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

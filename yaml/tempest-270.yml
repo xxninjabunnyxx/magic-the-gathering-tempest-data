@@ -1,0 +1,119 @@
+---
+object: card
+id: 9c1624f7-8275-46d3-ab7e-7b162e27593f
+oracle_id: 3db1ac09-e35a-4f50-97c4-f65dbc28daef
+multiverse_ids:
+- 4916
+mtgo_id: 9937
+mtgo_foil_id: 9938
+tcgplayer_id: 5719
+cardmarket_id: 9080
+name: Selenia, Dark Angel
+lang: en
+released_at: '1997-10-14'
+uri: https://api.scryfall.com/cards/9c1624f7-8275-46d3-ab7e-7b162e27593f
+scryfall_uri: https://scryfall.com/card/tmp/270/selenia-dark-angel?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/c/9c1624f7-8275-46d3-ab7e-7b162e27593f.jpg?1562055459
+  normal: https://cards.scryfall.io/normal/front/9/c/9c1624f7-8275-46d3-ab7e-7b162e27593f.jpg?1562055459
+  large: https://cards.scryfall.io/large/front/9/c/9c1624f7-8275-46d3-ab7e-7b162e27593f.jpg?1562055459
+  png: https://cards.scryfall.io/png/front/9/c/9c1624f7-8275-46d3-ab7e-7b162e27593f.png?1562055459
+  art_crop: https://cards.scryfall.io/art_crop/front/9/c/9c1624f7-8275-46d3-ab7e-7b162e27593f.jpg?1562055459
+  border_crop: https://cards.scryfall.io/border_crop/front/9/c/9c1624f7-8275-46d3-ab7e-7b162e27593f.jpg?1562055459
+mana_cost: "{3}{W}{B}"
+cmc: 5.0
+type_line: Legendary Creature — Phyrexian Angel
+oracle_text: |-
+  Flying
+  Pay 2 life: Return Selenia, Dark Angel to its owner's hand.
+power: '3'
+toughness: '3'
+colors:
+- B
+- W
+color_identity:
+- B
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 10df3a67-178e-4363-8668-34f0e6edf2a7
+set: tmp
+set_name: Tempest
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/10df3a67-178e-4363-8668-34f0e6edf2a7
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atmp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tmp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9c1624f7-8275-46d3-ab7e-7b162e27593f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3db1ac09-e35a-4f50-97c4-f65dbc28daef&unique=prints
+collector_number: '270'
+digital: false
+rarity: rare
+flavor_text: |-
+  "I am light. I am dark. I must give my life to serve; not even death can release me."
+  —Selenia, dark angel
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matthew D. Wilson
+artist_ids:
+- 4fbafd13-0cf9-42a1-870d-7f8ea276f140
+illustration_id: 31da8f6a-f0e5-4128-8d3b-66106448c7c9
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14594
+penny_rank: 14878
+prices:
+  usd: '7.34'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.79'
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4916
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Selenia%2C+Dark+Angel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Selenia%2C+Dark+Angel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Selenia%2C+Dark+Angel
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/5719?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Selenia%2C+Dark+Angel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/9937?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

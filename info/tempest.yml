@@ -1,0 +1,20 @@
+---
+object: set
+id: 10df3a67-178e-4363-8668-34f0e6edf2a7
+code: tmp
+mtgo_code: te
+arena_code: te
+tcgplayer_id: 108
+name: Tempest
+uri: https://api.scryfall.com/sets/10df3a67-178e-4363-8668-34f0e6edf2a7
+scryfall_uri: https://scryfall.com/sets/tmp
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmp&unique=prints
+released_at: '1997-10-14'
+set_type: expansion
+card_count: 350
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: tmp
+block: Tempest
+icon_svg_uri: https://svgs.scryfall.io/sets/tmp.svg?1694404800

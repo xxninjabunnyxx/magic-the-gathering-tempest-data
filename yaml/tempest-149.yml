@@ -1,0 +1,112 @@
+---
+object: card
+id: cad93919-273f-4a26-8ebd-13503dd6b220
+oracle_id: 72cecab3-519e-4a23-9623-b423a5c5a251
+multiverse_ids:
+- 4678
+mtgo_id: 9993
+mtgo_foil_id: 9994
+tcgplayer_id: 5678
+cardmarket_id: 8778
+name: Rain of Tears
+lang: en
+released_at: '1997-10-14'
+uri: https://api.scryfall.com/cards/cad93919-273f-4a26-8ebd-13503dd6b220
+scryfall_uri: https://scryfall.com/card/tmp/149/rain-of-tears?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/a/cad93919-273f-4a26-8ebd-13503dd6b220.jpg?1587857335
+  normal: https://cards.scryfall.io/normal/front/c/a/cad93919-273f-4a26-8ebd-13503dd6b220.jpg?1587857335
+  large: https://cards.scryfall.io/large/front/c/a/cad93919-273f-4a26-8ebd-13503dd6b220.jpg?1587857335
+  png: https://cards.scryfall.io/png/front/c/a/cad93919-273f-4a26-8ebd-13503dd6b220.png?1587857335
+  art_crop: https://cards.scryfall.io/art_crop/front/c/a/cad93919-273f-4a26-8ebd-13503dd6b220.jpg?1587857335
+  border_crop: https://cards.scryfall.io/border_crop/front/c/a/cad93919-273f-4a26-8ebd-13503dd6b220.jpg?1587857335
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Destroy target land.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 10df3a67-178e-4363-8668-34f0e6edf2a7
+set: tmp
+set_name: Tempest
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/10df3a67-178e-4363-8668-34f0e6edf2a7
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atmp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tmp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cad93919-273f-4a26-8ebd-13503dd6b220/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A72cecab3-519e-4a23-9623-b423a5c5a251&unique=prints
+collector_number: '149'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "These rains cannot quench; they carve the land's face like a scalpel on flesh."
+  —Crovax
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Charles Gillespie
+artist_ids:
+- ec2c14ea-79eb-4c55-963f-c46f7cef1c22
+illustration_id: 14be1dc2-b2ad-4650-8e9c-14575564a725
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17740
+penny_rank: 2262
+prices:
+  usd: '0.24'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.99'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4678
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rain+of+Tears&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rain+of+Tears&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rain+of+Tears
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/5678?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rain+of+Tears&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/9993?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
